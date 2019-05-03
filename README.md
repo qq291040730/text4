@@ -1,5 +1,9 @@
 ﻿
-图片 image/
+图片 image/  https://github.com/qq291040730/text4/blob/master/images/7%25QSP%25%5B0T%5BTY~%7BB681)E~7N.png
+https://github.com/qq291040730/text4/blob/master/images/MNBH%7BS%60S4K68AQMP9Y%2498Y9.png
+https://github.com/qq291040730/text4/blob/master/images/UXLJB_MN9Z8L9)MQ%7BC2APA1.png
+https://github.com/qq291040730/text4/blob/master/images/X%40HQJB9M)_LG3%5DSR61%7D%24FSS.png
+https://github.com/qq291040730/text4/blob/master/images/X%60DF%4049O7321T2%7BEC3Y8MBL.png
 主要代码：
 preferences.xml
 
